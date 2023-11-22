@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\DiscordRpc\\PCH.DiscordRpc.h.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\DiscordRpc\\Module.DiscordRpc.cpp.obj"
+	]
+}
